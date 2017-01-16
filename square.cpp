@@ -1,5 +1,5 @@
 //
-//  main.cpp
+//  square.cpp
 //  OpenGL_Tutorial
 //
 //  Created by Aiman Abdullah Anees on 10/01/17.
